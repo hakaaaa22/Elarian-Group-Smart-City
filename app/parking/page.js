@@ -1,0 +1,1 @@
+export default function Parking(){return <h1 className='text-3xl font-bold'>Smart Parking</h1>}

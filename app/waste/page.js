@@ -1,0 +1,1 @@
+export default function Waste(){return <h1 className='text-3xl font-bold'>Waste Management</h1>}

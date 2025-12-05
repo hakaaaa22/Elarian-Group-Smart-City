@@ -1,0 +1,1 @@
+export default function Energy(){return <h1 className='text-3xl font-bold'>Energy Monitoring</h1>}

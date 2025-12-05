@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ELARIAN GROUP – Smart City Platform
 
-## Getting Started
+A next-generation Smart City OS by **Khaled ElArian**, integrating IoT, AI, Telematics, ANPR/LPR, Smart Parking, Waste Management, Smart Poles, and Urban Intelligence — designed for mega-scale deployments across KSA and the GCC.
 
-First, run the development server:
+## 🚀 Vision
+Build a unified Smart City infrastructure that gives decision-makers real-time situational awareness, predictive insights, and full city control.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧩 Core Components
+- Core Services (Auth, API Gateway, Device Registry)
+- IoT Hub (MQTT / LoRaWAN / Edge Agents)
+- Smart City Modules (Fleet, Parking, Waste, Poles…)
+- AI Engine (OCR, ANPR, Video AI, Predictive Algorithms)
+- Dashboard Web & Mobile Apps
+- DevOps + Cloud Native Deployment
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📘 Documentation
+All documents under `docs/`:
+- Architecture
+- Business Plan
+- API Reference
+- Presentations
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> This repository represents the Official Smart City OS Architecture for **ELARIAN GROUP**.
