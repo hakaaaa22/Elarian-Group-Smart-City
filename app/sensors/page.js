@@ -6,7 +6,7 @@ export default function Sensors() {
   const [humidity, setHumidity] = useState("--");
 
   useEffect(() => {
-    const ws = new WebSocket("wss://your-socket-url");
+    const ws = new WebSocket("wss://YOUR-MQTT-WEBSOCKET");
     ws.onmessage = (msg) => {
       const data = JSON.parse(msg.data);
       setTemp(data.temp);

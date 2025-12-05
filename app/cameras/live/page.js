@@ -2,7 +2,7 @@ export default function LiveCameras() {
   const feeds = [
     "/streams/cam1.m3u8",
     "/streams/cam2.m3u8",
-    "/streams/cam3.m3u8"
+    "/streams/cam3.m3u8",
   ];
 
   return (

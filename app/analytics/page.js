@@ -15,7 +15,7 @@ export default function Analytics() {
       <div className="h-[60vh] bg-[#1a1c1f] p-8 rounded-xl border border-gray-800">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart data={data}>
-            <Line type="monotone" dataKey="value" stroke="#3b82f6" strokeWidth={3} />
+            <Line type="monotone" dataKey="value" stroke="#3b82f6" strokeWidth={3}/>
             <XAxis dataKey="name" />
             <YAxis />
             <Tooltip />

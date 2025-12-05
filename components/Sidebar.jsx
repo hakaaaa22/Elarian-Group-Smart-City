@@ -3,16 +3,12 @@ import Link from "next/link";
 export default function Sidebar() {
   const links = [
     ["", "📊 Dashboard"],
-    ["map", "🗺 Smart Map"],
+    ["map", "🗺️ Smart Map"],
     ["fleet", "🚚 Fleet"],
-    ["cameras/live", "📡 Live Cameras"],
-    ["anpr", "🔍 ANPR Stream"],
-    ["sensors", "📟 IoT Sensors"],
+    ["cameras/live", "🎥 Live Cameras"],
+    ["anpr", "🔎 ANPR Stream"],
+    ["sensors", "📡 Sensors"],
     ["analytics", "📈 Analytics"],
-    ["parking", "🅿️ Smart Parking"],
-    ["waste", "♻️ Waste Management"],
-    ["energy", "⚡ Energy"],
-    ["alerts", "🚨 Alerts Center"]
   ];
 
   return (
