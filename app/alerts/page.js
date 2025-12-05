@@ -1,1 +1,1 @@
-export default function Alerts(){return <h1 className='text-3xl font-bold'>Alerts & Notifications</h1>}
+export default function Alerts(){return <h1 className='text-3xl font-bold'>Alerts Center</h1>}
